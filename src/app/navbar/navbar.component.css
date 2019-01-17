@@ -4,20 +4,29 @@
 	color: #F7C42D
 }
 
+.nav-item .nav-link:hover {
+	background: #F7C42D;
+	color: #343A40;
+}
+
 /*color del título Buy-On*/
 
 .navbar-brand {
 	color: #F7C42D
 }
+
 /*margenes del navbar*/
+
 .navbar {
 	height: 45px;
 	border: 1px solid;
 	position: relative;
 	width: 100%;
 }
+
 /*cambios de color en el dropdown*/
+
 .dropdown-item:hover {
-	background: rgba(247, 196, 45);
+	background: #F7C42D;
 	color: #343A40;
 }
