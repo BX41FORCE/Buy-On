@@ -1,3 +1,23 @@
-.nav-item .nav-link{
-    color:#ff6600
+/*color de las opciones del navbar*/
+
+.nav-item .nav-link {
+	color: #F7C42D
+}
+
+/*color del título Buy-On*/
+
+.navbar-brand {
+	color: #F7C42D
+}
+/*margenes del navbar*/
+.navbar {
+	height: 45px;
+	border: 1px solid;
+	position: relative;
+	width: 100%;
+}
+/*cambios de color en el dropdown*/
+.dropdown-item:hover {
+	background: rgba(247, 196, 45);
+	color: #343A40;
 }
