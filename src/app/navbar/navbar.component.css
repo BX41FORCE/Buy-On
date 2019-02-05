@@ -30,3 +30,9 @@
 	background: #F7C42D;
 	color: #343A40;
 }
+
+.carrito-btn {
+	padding: 0px;
+    width: 200px;
+    height: 28px;
+}
